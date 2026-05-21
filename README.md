@@ -14,3 +14,9 @@ SecondFit is an e-commerce platform focused on buying and selling preloved items
 
 ## Purpose
 SecondFit aims to promote sustainable shopping by making it easier for people to buy and sell second-hand items instead of letting them go to waste.
+
+## Tech Stack
+Frontend: SwiftUI
+Backend & Database: Supabase
+Authentication: Supabase Auth
+Storage: Supabase Storage
