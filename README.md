@@ -13,4 +13,5 @@ Features
 - Responsive and clean UI
 
 Purpose
+
 SecondFit aims to promote sustainable shopping by making it easier for people to buy and sell second-hand items instead of letting them go to waste.
