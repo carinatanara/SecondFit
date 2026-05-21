@@ -17,6 +17,9 @@ SecondFit aims to promote sustainable shopping by making it easier for people to
 
 ## Tech Stack
 Frontend: SwiftUI
+
 Backend & Database: Supabase
+
 Authentication: Supabase Auth
+
 Storage: Supabase Storage
